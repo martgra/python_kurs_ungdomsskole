@@ -1,6 +1,6 @@
 ## Oppgaver
 
-### Oppgave 1: "Hei, Verden!" med en Vri
+### Oppgave 1: "Hei, Verden!" med en vri
 
 **Mål:** Å forstå grunnleggende utskrift og brukerinput.
 
@@ -14,7 +14,7 @@ Hva heter du? Emma
 Hei, Emma!
 ```
 
-### Oppgave 2: Gjett Tallet
+### Oppgave 2: Gjett tallet
 
 **Mål:** Å bruke løkker, betingelser og brukerinput.
 
@@ -74,7 +74,7 @@ Andre tall: 3
 -10
 ```
 
-### Oppgave 5: Enkel Kalkulator
+### Oppgave 5: Enkel kalkulator
 
 **Mål:** Å kombinere betingelser, løkker og funksjoner.
 
@@ -96,7 +96,7 @@ Velg operasjon (add, sub, mul, div) eller 'avslutt' for å stoppe: avslutt
 
 ## Løsningsforslag
 
-### Oppgave 1: "Hei, Verden!" med en Vri
+### Oppgave 1: "Hei, Verden!" med en vri
 
 **Pseudokode:**
 1. Be brukeren om å oppgi sitt navn.
@@ -114,7 +114,7 @@ print("Hei, " + navn + "!")  # 'print' brukes for å skrive ut tekst til konsoll
 
 `input()` er en funksjon som lar programmet ditt motta input fra brukeren. Den returnerer det brukeren skriver som en streng.
 
-### Oppgave 2: Gjett Tallet
+### Oppgave 2: Gjett tallet
 
 **Pseudokode:**
 1. Velg et hemmelig tall.
@@ -187,7 +187,7 @@ for i in range(1, 11):  # 'range(1, 11)' gir en sekvens av tall fra 1 til 10
 
 `for`-løkken brukes her til å gjenta en blokk kode et bestemt antall ganger. `range(1, 11)` genererer tall fra 1 til 10.
 
-### Oppgave 5: Enkel Kalkulator
+### Oppgave 5: Enkel kalkulator
 
 **Pseudokode:**
 1. Start en løkke.

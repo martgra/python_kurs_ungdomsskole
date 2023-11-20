@@ -5,7 +5,7 @@
 
 Selvfølgelig, jeg vil inkludere både forklaringer og eksempler for hvert punkt på listen. Dette vil gi en bedre forståelse og kontekst for hvert konsept, spesielt nyttig for nybegynnere i alderen 13 til 15 år.
 
-1. **Grunnleggende Konsepter:**
+1. **Grunnleggende konsepter:**
    - **Algoritme:** En trinnvis prosedyre for å løse et problem, som en oppskrift i matlaging. 
      - *Eksempel:* En algoritme for å finne det største tallet i en liste av tall.
    - **Syntaks:** Reglene for hvordan du skriver kode. Ukorrekt syntaks fører til feil.
@@ -114,6 +114,9 @@ Selvfølgelig, jeg vil inkludere både forklaringer og eksempler for hvert punkt
 
 
 ## Nøkkelord
+
+I Python eksiterer "nøkkelord". Dette er ord man ikke kan navngi variabler med og har en funksjon i programmet.
+Under er et utvalg av disse sammen med en enkel forklaring. 
 
 **Datatyper og Verdier**
 - `True`: Representerer den boolske verdien Sann.

@@ -1,4 +1,4 @@
-### Vanlige Feil Nybegynnere i Python Uten Programmeringsbakgrunn Gjør
+### Vanlige feil og feilmeldinger
 
 1. **Ikke Forstå Variabeltyper og Typekonvertering**
    - Forvirring mellom `int`, `float`, og `str`.
